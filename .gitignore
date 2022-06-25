@@ -1,5 +1,5 @@
 DoAn_LapTrinhWeb/Images
-.idea/
-.vs/
-DoAn_LapTrinhWeb.sln.DotSettings/
-DoAn_LapTrinhWeb.sln.DotSettings.user/
+.idea
+.vs
+DoAn_LapTrinhWeb.sln.DotSettings
+DoAn_LapTrinhWeb.sln.DotSettings.user
